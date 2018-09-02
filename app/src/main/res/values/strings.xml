@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PokeApp</string>
+    <string name="desc">Description</string>
+    <string name="error_network_not_available">Réseau non disponible</string>
+    <string name="picture_url">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/%1$s.png</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="weight" formatted="false">%1$.1f kg</string>
+    <string name="height" formatted="false">%1$d cm</string>
+    <string name="share" formatted="false">Check this amazing Pokemon out ! This is %1$s, click here to see more %2$s</string>
+    <string name="short_share">Share %1$s</string>
+    <string name="menu_share">Share</string>
+    <string name="empty_string" />
+    <string name="impossible_to_load_offline">Impossible to load this content offline</string>
+    <plurals name="moves">
+        <item quantity="one">%d move</item>
+        <item quantity="other">%d moves</item>
+    </plurals>
+    <plurals name="types">
+        <item quantity="one">%d type : %s</item>
+        <item quantity="other">%d types : %s and %s</item>
+    </plurals>
+</resources>
